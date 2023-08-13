@@ -20,4 +20,4 @@ driver is loaded first, it claims a PCI-PCI Bridge Root Port. The
 kernel therefore does not load other service drivers for that Root
 Port. In other words, it is impossible to have multiple service
 drivers load and run on a PCI-PCI Bridge device simultaneously
-using the current driver model.11
+using the current driver model.112
