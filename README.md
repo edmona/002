@@ -5,8 +5,6 @@ PCI Express Port's services include native hotplug support (HP),
 power management event support (PME), advanced error reporting
 support (AER), and virtual channel support (VC). These services may
 be handled by a single complex driver or be individually distributed
-
-
 In existing Linux kernels, the Linux Device Driver Model allows a
 physical device to be handled by only a single driver. The PCI
 Express Port is a PCI-PCI Bridge device with multiple distinct
